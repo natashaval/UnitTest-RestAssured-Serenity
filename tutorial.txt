@@ -1,0 +1,7 @@
+untuk check maven test report
+'mvn clean verify'
+atau di sebelah kanan Maven
+pilih plugin -> serenity -> serenity:aggregate
+run
+cari di target/site/index.html
+klik kanan open in browser
